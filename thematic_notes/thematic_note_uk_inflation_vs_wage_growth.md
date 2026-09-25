@@ -29,6 +29,7 @@ That's the crux of the "who blinks first" framing. If wage growth keeps decelera
 The 10-year gilt yield is a useful cross-check on this debate, because it's the market's own aggregated view of where UK rates and inflation are heading over the next decade, updated in real time in a way survey data can't match.
 
 ![UK 10-year gilt yield](uk_gilt_10y.png)
+
 *Source: OECD long-term government bond yield series (IRLTLT01GBM156N), mirrored on FRED*
 
 A gilt yield that keeps climbing even as headline CPI cools is one of the more reliable signals that the market isn't fully convinced the wage-growth side of this story has been resolved — it would be pricing either continued upward pressure on the path of Bank Rate, or a larger term premium for holding UK government debt for a decade, both of which are consistent with a market still uncertain the UK has fully escaped the wage-price dynamic described above. Reading the gilt yield alongside the CPI print, rather than in isolation, is a genuinely useful habit — either series on its own tells only half of this story.
