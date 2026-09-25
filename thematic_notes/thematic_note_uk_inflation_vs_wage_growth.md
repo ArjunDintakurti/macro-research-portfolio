@@ -13,6 +13,7 @@ The basic mechanics are worth setting out plainly before getting into the data. 
 The chart below is UK CPI inflation on a year-on-year basis, against the Bank's 2% target.
 
 ![UK CPI, year-on-year](uk_cpi_yoy.png)
+
 *Source: OECD CPI series (GBRCPIALLMINMEI), mirrored on FRED — last verified print: March 2025*
 
 The honest starting point here is a genuine limitation in the data this note draws on: the free, key-less feed this portfolio uses hasn't been updated past March 2025, which is a real gap rather than a judgement about where inflation is heading — a direct ONS API query was tried and returned nothing usable for the series IDs attempted. What the chart does show, up to that point, is a series that spent an extended period running well above target before beginning a gradual descent — consistent with the broader, widely reported UK story of inflation that peaked hard in 2022-23 on the back of energy prices and supply disruption, and has been grinding back toward target since, without ever quite completing the journey cleanly.
