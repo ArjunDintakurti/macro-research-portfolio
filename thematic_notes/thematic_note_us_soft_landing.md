@@ -1,6 +1,6 @@
 # US soft-landing probability, and what would prove it wrong
 
-*Thematic note — independent macro research portfolio*
+
 
 ## Defining the term properly before using it
 
