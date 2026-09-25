@@ -1,6 +1,6 @@
 # UK inflation persistence versus wage growth: who blinks first?
 
-**
+
 
 ## The question this note is actually asking
 
